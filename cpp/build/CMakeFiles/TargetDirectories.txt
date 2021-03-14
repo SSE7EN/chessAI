@@ -1,0 +1,3 @@
+/home/se7en/Studia/3Semestr/lab/pk3/git/Projekt/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/se7en/Studia/3Semestr/lab/pk3/git/Projekt/cpp/build/CMakeFiles/edit_cache.dir
+/home/se7en/Studia/3Semestr/lab/pk3/git/Projekt/cpp/build/CMakeFiles/chess-engine.dir
